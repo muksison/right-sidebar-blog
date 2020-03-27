@@ -1,0 +1,11 @@
+menu_style.scss:
+
+sass --watch "D:\Projects\Smart World Academy\SWA-first-task\right-sidebar-blog\scss\menu_style.scss":"D:\Projects\Smart World Academy\SWA-first-task\right-sidebar-blog\css\menu_style.css"
+
+faq_style.scss:
+
+sass --watch "D:\Projects\Smart World Academy\SWA-first-task\right-sidebar-blog\scss\faq_style.scss":"D:\Projects\Smart World Academy\SWA-first-task\right-sidebar-blog\css\faq_style.css"
+
+right-sidebar-blog:
+
+sass --watch "D:\Projects\Smart World Academy\SWA-first-task\right-sidebar-blog\scss\right-sidebar-blog.scss":"D:\Projects\Smart World Academy\SWA-first-task\right-sidebar-blog\css\right-sidebar-blog.css"
